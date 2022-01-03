@@ -1,0 +1,4 @@
+templates
+  |___ home.html (Renders the default home page)
+  |___ manual.html (Renders the manual entry page for review data)
+  |___ result.html (Renders the result page after model prediction)
